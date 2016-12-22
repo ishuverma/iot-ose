@@ -59,6 +59,7 @@ The data visualization is stored in Notebooks. The interpreters allows Zeppelin 
 
 image::images/Zeppelin-service.png[width="500", height="400", align="center"]
 
+
 *Step 6:* Under notebook, select **Import note** to import the pre-configured https://github.com/ishuverma/iot-ose/blob/master/support/zeppelin/iot-ose.json[iot-ose notebook]  
 
 image::images/zeppelin-importNote.png[width="750", height="300", align="center"]
