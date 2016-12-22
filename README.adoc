@@ -63,13 +63,15 @@ image::images/Zeppelin-service.png[width="500", height="400", align="center"]
 
 image::images/zeppelin-importNote.png[width="750", height="300", align="center"]
 
+
 *Step 7:* Execute all visualizations by hitting the play button on the top lefthand corner of the page next to the name of the note
 
 image::images/Zeppelin-results.png[width="750", height="300", align="center"]
 
+
 *Step 8:* Periodically refresh the note data through chron scheduler
 
-image::images/zeppelin-note-chron.png[width="750", height="300", align="center"]
+image::images/zeppelin-note-chron.png[width="650", height="250", align="center"]
 
 
 == Shutting Down Demo
