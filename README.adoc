@@ -71,7 +71,7 @@ image::images/Zeppelin-results.png[width="750", height="300", align="center"]
 
 *Step 8:* Periodically refresh the note data through chron scheduler
 
-image::images/zeppelin-note-chron.png[width="650", height="250", align="center"]
+image::images/zeppelin-note-chron.png[width="750", height="300", align="center"]
 
 
 == Shutting Down Demo
