@@ -34,6 +34,8 @@ Spring boot based software app simulating temperature, vibration and GPS sensor 
 
 _Note: The OpenShift environment can be enabled by CDK platform. To learn how to install CDK, check out https://github.com/redhatdemocentral/cdk-install-demo[CDK-Install Demo]_
 
+_Note: The VM should be enabled with minimum of 4 CPU and 6144MB memory (For CDK, the vagrant file should be updated with this configuration)_
+
 *Step 2:* Download the iot-ose project in the OpenShift instance:
 
  [user@localhost ~]$ git clone https://github.com/sabre1041/iot-ose.git
